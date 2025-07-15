@@ -15,8 +15,8 @@ https://t.me/toneachat
 课件地址：[https://ton-org.notion.site/8-TON-MultiSign-2295274bd2cf808fa878eec6db717160](https://ton-org.notion.site/8-TON-MultiSign-2295274bd2cf808fa878eec6db717160)
 
 领奖信息收集：
-1. 你的 Telegram 用户名 = ？
-2. 你的主网 TON 钱包地址 = ？
+1. 你的 Telegram 用户名 = @nft_patrick
+2. 你的主网 TON 钱包地址 = UQBKXFMtekdp2Mu0P_PnYdYU3GtsFlj15wdv4eLHI0Av2mD6
 
 
 ## 任务 1：创建一个多签合约
@@ -28,7 +28,7 @@ https://t.me/toneachat
 
 ### 你的答案：
 
-1. 你的多签合约钱包地址 = ？
+1. 你的多签合约钱包地址 = EQBXhtWXpGDZc_AIfgOo3gWuMJ9oVgesmV4upoFBDd3QLMdn
 
 
 ---
@@ -43,8 +43,7 @@ https://t.me/toneachat
 
 ### 你的答案：
 
-1. 你的多签转账交易记录，浏览器 URL = ？
-
+1. 你的多签转账交易记录，浏览器 URL = https://tonviewer.com/transaction/8726bbb3f659e81108beeb3eb06bd89255524349d7cdc5f779d9c83411c102ed
 ---
 
 
